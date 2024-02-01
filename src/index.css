@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,body {
+    /* font-family: 'Courier New', Courier, monospace;
+    background-image: url("../public/2841153.jpg");
+    height: 100%;
+    margin: 0;
+    padding: 0; */
+}
+
